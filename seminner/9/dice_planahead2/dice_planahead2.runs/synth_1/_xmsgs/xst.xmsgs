@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="872" delta="new" >"C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 11: Using initial value of <arg fmt="%s" index="1">RST</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 52: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">21</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 26: Signal &lt;<arg fmt="%s" index="1">CH_O</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1128" delta="new" >"C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 26: Assignment under multiple single edges is not supported for synthesis
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 1: Empty module &lt;<arg fmt="%s" index="1">DICE_TOP</arg>&gt; remains a black box.
+</msg>
+
+</messages>
+

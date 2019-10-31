@@ -1,0 +1,15 @@
+GPLCVER_2.12a of 05/16/07 (Cygwin32).
+Copyright (c) 1991-2007 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Wed May 15 19:46:25 2019.
+Compiling source file ".\case.v"
+Highest level modules:
+case_z
+
+OUT = xx
+0 simulation events and 3 declarative immediate assigns processed.
+1 behavioral statements executed (1 procedural suspends).
+  Times (in sec.):  Translate 0.0, load/optimize 0.1, simulation 0.1.
+  There were 0 error(s), 0 warning(s), and 1 inform(s).
+End of GPLCVER_2.12a at Wed May 15 19:46:25 2019 (elapsed 0.0 seconds).

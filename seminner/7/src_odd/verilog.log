@@ -1,0 +1,21 @@
+GPLCVER_2.12a of 05/16/07 (Cygwin32).
+Copyright (c) 1991-2007 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Wed Jun 12 22:45:50 2019.
+Compiling source file "sqrt_odd.v"
+Compiling source file "sqrt_odd_tb.v"
+Highest level modules:
+sqrt_odd_tb
+
+                   0: I =   x, O =  x
+                  10: I =   0, O =  0
+                  20: I =  56, O =  7
+                  30: I =   4, O =  2
+                  40: I =   9, O =  3
+                  50: I =  46, O =  6
+                  60: I = 156, O = 12
+                  70: I = 135, O = 11
+                  80: I = 223, O = 14
+Halted at location **sqrt_odd_tb.v(29) time 100 from call to $finish.
+  There were 0 error(s), 0 warning(s), and 15 inform(s).

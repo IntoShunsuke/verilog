@@ -1,0 +1,10 @@
+@step	5
+@lineskip 16
+@capwidth 40
+@bitmapmag 4
+@capfont ‚l‚r\ ‚oƒSƒVƒbƒN
+@strfont ‚l‚r\ ƒSƒVƒbƒN
+CLK 		__|~~__|~~__|~~__
+Reset		~~____~~~~~~~~
+START		______~~~~____
+LED		==X===X=DATA==X===

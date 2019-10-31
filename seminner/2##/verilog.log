@@ -1,0 +1,21 @@
+GPLCVER_2.12a of 05/16/07 (Cygwin32).
+Copyright (c) 1991-2007 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Wed May  8 13:00:33 2019.
+Compiling source file "adder4.v"
+Compiling source file "multi_test.v"
+Compiling source file "multi_top.v"
+Highest level modules:
+multi_test
+
+                   0: A = x, B = x, O = x, RST = 0
+                  10: A = 0, B = 0, O = x, RST = 1
+                  20: A = 1, B = 0, O = 0, RST = 0
+                  30: A = 0, B = 1, O = 0, RST = 0
+                  40: A = 1, B = 0, O = 0, RST = 0
+                  50: A = 0, B = 1, O = 0, RST = 0
+                  65: A = 0, B = 1, O = 1, RST = 0
+                 105: A = 0, B = 1, O = 0, RST = 0
+Halted at location **multi_test.v(35) time 130 from call to $finish.
+  There were 0 error(s), 0 warning(s), and 12 inform(s).

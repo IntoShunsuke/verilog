@@ -1,0 +1,42 @@
+GPLCVER_2.12a of 05/16/07 (Cygwin32).
+Copyright (c) 1991-2007 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Wed May 22 11:16:14 2019.
+Compiling source file "mac_test.v"
+Compiling source file "mac.v"
+Compiling source file "adder_serial.v"
+Compiling source file "ctrl_signal_generator.v"
+Compiling source file "multi_serial.v"
+Compiling source file "multiplier.v"
+Compiling source file "populationCount.v"
+**multi_serial.v(48) WARN** [531] MCG(multi_ctrl_signal_gen) explicit connection list fewer ports 5 connected than type's 6
+Highest level modules:
+mac_test
+
+                   0: A = x, B = x, O = x, O_VALID = x, RST = 1
+                  10: A = 0, B = 0, O = 0, O_VALID = 0, RST = 0
+                  20: A = 0, B = 0, O = 0, O_VALID = 0, RST = 1
+                  21: A = 1, B = 1, O = 0, O_VALID = 0, RST = 1
+                  30: A = 1, B = 1, O = 0, O_VALID = 1, RST = 1
+                  40: A = 1, B = 1, O = 0, O_VALID = 1, RST = 1
+                  70: A = 1, B = 1, O = 0, O_VALID = 1, RST = 1
+                  80: A = 1, B = 1, O = 1, O_VALID = 1, RST = 1
+                 110: A = 1, B = 1, O = 1, O_VALID = 1, RST = 1
+                 120: A = 1, B = 1, O = 0, O_VALID = 0, RST = 1
+                 201: A = 1, B = 0, O = 0, O_VALID = 0, RST = 1
+                 210: A = 1, B = 0, O = 1, O_VALID = 1, RST = 1
+                 211: A = 0, B = 1, O = 1, O_VALID = 1, RST = 1
+                 220: A = 0, B = 1, O = 0, O_VALID = 1, RST = 1
+                 221: A = 1, B = 0, O = 0, O_VALID = 1, RST = 1
+                 230: A = 1, B = 0, O = 0, O_VALID = 1, RST = 1
+                 231: A = 0, B = 1, O = 0, O_VALID = 1, RST = 1
+                 240: A = 0, B = 1, O = 1, O_VALID = 1, RST = 1
+                 250: A = 0, B = 1, O = 0, O_VALID = 1, RST = 1
+                 260: A = 0, B = 1, O = 1, O_VALID = 1, RST = 1
+                 270: A = 0, B = 1, O = 0, O_VALID = 1, RST = 1
+                 280: A = 0, B = 1, O = 1, O_VALID = 1, RST = 1
+                 290: A = 0, B = 1, O = 0, O_VALID = 1, RST = 1
+                 300: A = 0, B = 1, O = 0, O_VALID = 0, RST = 1
+Halted at location **mac_test.v(52) time 341 from call to $finish.
+  There were 0 error(s), 1 warning(s), and 25 inform(s).

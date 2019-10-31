@@ -1,0 +1,9 @@
+set -loop_iteration_limit 1000
+run
+-ifn DICE_TOP.prj
+-top DICE_TOP
+-p xc7a100tcsg324-3
+-ofn DICE_TOP.ngc
+-opt_mode speed
+-opt_level 1
+-netlist_hierarchy rebuilt

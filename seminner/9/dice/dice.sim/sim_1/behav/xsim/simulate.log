@@ -1,0 +1,11 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+                   0: BUTTON_N = 1, LED = 0000000
+              110000: BUTTON_N = 0, LED = 0000000
+                   0: BUTTON_N = 1, LED = 0000000
+              110000: BUTTON_N = 0, LED = 0000000
+                   0: BUTTON_N = 1, LED = 0000000
+              110000: BUTTON_N = 0, LED = 0000000
+          1310730000: BUTTON_N = 0, LED = 0101010
+          1400110000: BUTTON_N = 1, LED = 0101010
+$finish called at time : 1400130 ns : File "C:/Users/shuns/Documents/verilog/seminner/9/src/DICE_tb.v" Line 32

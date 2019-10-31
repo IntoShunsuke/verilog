@@ -1,0 +1,17 @@
+GPLCVER_2.12a of 05/16/07 (Cygwin32).
+Copyright (c) 1991-2007 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Wed Apr 17 16:55:31 2019.
+Compiling source file ".\count32.v"
+Compiling source file ".\count32_test.v"
+Highest level modules:
+count32_test
+
+                   0: I = 00000000000000000000000000000000, out = 000000
+                  10: I = 00000000000000000000000000000001, out = 000001
+                  20: I = 11111111111111111111111111111111, out = 100000
+                  30: I = 11111111111111110000000000000000, out = 010000
+                  40: I = 00000000000000000000000000000000, out = 000000
+Halted at location **.\count32_test.v(22) time 60 from call to $finish.
+  There were 0 error(s), 0 warning(s), and 2 inform(s).

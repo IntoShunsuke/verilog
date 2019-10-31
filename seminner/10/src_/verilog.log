@@ -1,0 +1,19 @@
+GPLCVER_2.12a of 05/16/07 (Cygwin32).
+Copyright (c) 1991-2007 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Wed Jul 24 11:06:16 2019.
+Compiling source file "TRIANGLE.v"
+Compiling source file "TRIANGLE_tb.v"
+Highest level modules:
+TRIANGLE_tb
+
+                   0: A =   0, B =   0, C =   0, OUT = 0
+                  10: A =   3, B =   4, C =   5, OUT = 1
+                  20: A =  10, B = 100, C = 255, OUT = 0
+                  30: A =   1, B =   1, C =   1, OUT = 1
+                  40: A =   1, B = 127, C = 255, OUT = 0
+                  50: A =   0, B = 128, C = 127, OUT = 0
+                  60: A = 255, B = 128, C = 128, OUT = 1
+Halted at location **TRIANGLE_tb.v(29) time 90 from call to $finish.
+  There were 0 error(s), 0 warning(s), and 4 inform(s).

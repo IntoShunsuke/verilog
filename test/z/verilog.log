@@ -1,0 +1,15 @@
+GPLCVER_2.12a of 05/16/07 (Cygwin32).
+Copyright (c) 1991-2007 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Tue May 21 12:19:37 2019.
+Compiling source file "z.v"
+Highest level modules:
+z
+
+xx
+0 simulation events and 2 declarative immediate assigns processed.
+3 behavioral statements executed (1 procedural suspends).
+  Times (in sec.):  Translate 0.0, load/optimize 0.1, simulation 0.1.
+  There were 0 error(s), 0 warning(s), and 1 inform(s).
+End of GPLCVER_2.12a at Tue May 21 12:19:37 2019 (elapsed 0.0 seconds).

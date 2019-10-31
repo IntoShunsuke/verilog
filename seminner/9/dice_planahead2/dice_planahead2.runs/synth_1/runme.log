@@ -1,0 +1,41 @@
+
+*** Running xst
+    with args -ifn "DICE_TOP.xst" -ofn "DICE_TOP.srp" -intstyle ise
+
+Reading design: DICE_TOP.prj
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/RNG.v" into library work
+Parsing module <RNG>.
+Analyzing Verilog file "C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DECODER.v" into library work
+Parsing module <DECODER>.
+Analyzing Verilog file "C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE.v" into library work
+Parsing module <DICE>.
+Analyzing Verilog file "C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" into library work
+Parsing module <DICE_TOP>.
+Parsing module <CHATTERING>.
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+
+Elaborating module <DICE_TOP>.
+WARNING:HDLCompiler:872 - "C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 11: Using initial value of RST since it is never assigned
+
+Elaborating module <CHATTERING>.
+WARNING:HDLCompiler:413 - "C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 52: Result of 32-bit expression is truncated to fit in 21-bit target.
+WARNING:HDLCompiler:91 - "C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 26: Signal <CH_O> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+ERROR:HDLCompiler:1128 - "C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 26: Assignment under multiple single edges is not supported for synthesis
+INFO - You can change the severity of this error message to warning using switch -change_error_to_warning "HDLCompiler:1128"
+Module DICE_TOP remains a blackbox, due to errors in its contents
+WARNING:HDLCompiler:1499 - "C:/Users/shuns/Documents/verilog/seminner/9/dice_planahead2/dice_planahead2.srcs/sources_1/imports/src/DICE_TOP.v" Line 1: Empty module <DICE_TOP> remains a black box.
+--> 
+
+Total memory usage is 4501264 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    4 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,22 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 31f0caf0d5644efa83a8acd710a72b78 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot DICE_tb_behav xil_defaultlib.DICE_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/shuns/Documents/verilog/seminner/9/src/DICE_TOP.v" Line 1. Module DICE_TOP doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/shuns/Documents/verilog/seminner/9/src/DICE_TOP.v" Line 31. Module CHATTERING doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/shuns/Documents/verilog/seminner/9/src/DICE.v" Line 1. Module DICE doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/shuns/Documents/verilog/seminner/9/src/RNG.v" Line 24. Module RNG doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/shuns/Documents/verilog/seminner/9/src/DECODER.v" Line 1. Module DECODER doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.CHATTERING
+Compiling module xil_defaultlib.RNG
+Compiling module xil_defaultlib.DECODER
+Compiling module xil_defaultlib.DICE
+Compiling module xil_defaultlib.DICE_TOP
+Compiling module xil_defaultlib.DICE_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot DICE_tb_behav

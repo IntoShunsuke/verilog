@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shuns/Documents/verilog/seminner/9/src/DECODER.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DECODER
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shuns/Documents/verilog/seminner/9/src/DICE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DICE
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shuns/Documents/verilog/seminner/9/src/DICE_TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DICE_TOP
+INFO: [VRFC 10-311] analyzing module CHATTERING
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shuns/Documents/verilog/seminner/9/src/RNG.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RNG
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/shuns/Documents/verilog/seminner/9/src/DICE_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DICE_tb

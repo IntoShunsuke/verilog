@@ -1,0 +1,10 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/shuns/Documents/verilog/seminner/9/dice/dice.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/shuns/Documents/verilog/seminner/9/src/DECODER.v,1562129405,verilog,,C:/Users/shuns/Documents/verilog/seminner/9/src/DICE.v,,DECODER,,,,,,,,
+C:/Users/shuns/Documents/verilog/seminner/9/src/DICE.v,1562119507,verilog,,C:/Users/shuns/Documents/verilog/seminner/9/src/DICE_TOP.v,,DICE,,,,,,,,
+C:/Users/shuns/Documents/verilog/seminner/9/src/DICE_TOP.v,1562313738,verilog,,C:/Users/shuns/Documents/verilog/seminner/9/src/RNG.v,,CHATTERING;DICE_TOP,,,,,,,,
+C:/Users/shuns/Documents/verilog/seminner/9/src/DICE_tb.v,1562483999,verilog,,,,DICE_tb,,,,,,,,
+C:/Users/shuns/Documents/verilog/seminner/9/src/RNG.v,1562132323,verilog,,C:/Users/shuns/Documents/verilog/seminner/9/src/DICE_tb.v,,RNG,,,,,,,,

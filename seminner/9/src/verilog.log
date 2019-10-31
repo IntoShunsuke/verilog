@@ -1,0 +1,22 @@
+GPLCVER_2.12a of 05/16/07 (Cygwin32).
+Copyright (c) 1991-2007 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Wed Jul 10 13:46:56 2019.
+Compiling source file "DECODER.v"
+Compiling source file "DICE.v"
+Compiling source file "DICE_TOP.v"
+Compiling source file "DICE_tb.v"
+Compiling source file "RNG.v"
+Highest level modules:
+DICE_tb
+
+                   0: BUTTON_N = 1, LED = 0000000
+           130000000: BUTTON_N = 0, LED = 0000000
+           249999900: BUTTON_N = 0, LED = 0101010
+           260000000: BUTTON_N = 1, LED = 0101010
+           390000000: BUTTON_N = 0, LED = 0101010
+           499999700: BUTTON_N = 0, LED = 1101011
+           520000000: BUTTON_N = 1, LED = 1101011
+Halted at location **DICE_tb.v(34) time 52000020000 ps from call to $finish.
+  There were 0 error(s), 0 warning(s), and 9 inform(s).

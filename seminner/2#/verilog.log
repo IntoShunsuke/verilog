@@ -1,0 +1,21 @@
+GPLCVER_2.12a of 05/16/07 (Cygwin32).
+Copyright (c) 1991-2007 Pragmatic C Software Corp.
+  All Rights reserved.  Licensed under the GNU General Public License (GPL).
+  See the 'COPYING' file for details.  NO WARRANTY provided.
+Today is Tue May  7 17:20:12 2019.
+Compiling source file "multi_test.v"
+Compiling source file "multi_top.v"
+Compiling source file "stage.v"
+Compiling source file "stage_and.v"
+Highest level modules:
+multi_test
+stage
+
+                   0: A = x, B = x, O = x, RST = 0
+                   5: A = 0, B = 0, O = x, RST = 1
+                  15: A = 1, B = 1, O = 0, RST = 0
+                  35: A = 1, B = 1, O = 1, RST = 0
+                  45: A = 1, B = 1, O = 0, RST = 0
+                  85: A = 1, B = 1, O = 1, RST = 0
+Halted at location **multi_test.v(30) time 115 from call to $finish.
+  There were 0 error(s), 0 warning(s), and 45 inform(s).
